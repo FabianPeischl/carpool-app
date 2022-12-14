@@ -1,0 +1,3 @@
+node_modules/
+public/js/dist/*
+models/users-data.js
